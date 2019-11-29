@@ -1,6 +1,5 @@
 # hack4lx_Phishing-2019
 Phishing 2019 Professional Training
-# hack4lx_Phishing-2019
 
 [![Telegram Chat](https://img.shields.io/badge/chat%20on-Telegram-blue.svg)](https://t.me/hack4lx)
 
